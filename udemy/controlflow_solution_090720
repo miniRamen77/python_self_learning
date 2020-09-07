@@ -1,0 +1,36 @@
+### Task1  solution
+
+d1 = {"k1": [1,2,3, (100, 300, 500)], "k2": [4,5,6, ["phone","computer", "robot"]]}
+var = eval(input("Enter a number: "))
+
+if var in d1["k1"]:
+    print("found you!")
+    
+    num = eval(input("Enter a number:"))
+    if num in d1["k2"]:
+        print("Found another one!!")
+        
+        item = input("Enter a keyword:")
+        if item in d1["k2"][3]:
+            print("Got a",item)
+        else:
+            print("Can't find a",item)
+    else:
+        print("Can't find anything")
+elif var in d1["k1"][3]:
+    print("Can't hide!")
+else:
+    print("Where are you?")
+
+### Task2 solution
+choose = eval(input("Enter a number 0 to 2: "))
+pick = eval(input("Enter a number 0 to 2: "))
+
+if (choose >2 and pick >2) or (choose <= 2 and pick >2) or (choose > 2 and pick <=2):
+    None
+
+else:
+    meal = []
+    sauce = ["spicy", "sweet", "savoury"][pick]
+    cooked_pasta = ["hot", "cold", "over cooked"][choose]
+    print("My meal is", cooked_pasta, "and very", sauce, "!")
