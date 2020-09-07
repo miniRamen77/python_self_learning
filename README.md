@@ -27,5 +27,5 @@ https://stackoverflow.com/questions/50038651/a-module-is-working-in-anaconda-pro
 https://docs.spyder-ide.org/installation.html
 
 
-### Weblinks for my learning roadmap: 
+## Weblinks for my learning roadmap: 
 Sept2020 Udemy: https://www.udemy.com/course/python-3-for-total-beginners/learn/lecture/8389012#notes
