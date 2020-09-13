@@ -27,5 +27,9 @@ https://stackoverflow.com/questions/50038651/a-module-is-working-in-anaconda-pro
 https://docs.spyder-ide.org/installation.html
 
 
+# Weblinks for specific topics:
+a. Python 3 format and output: https://www.python-course.eu/python3_formatted_output.php
+
+
 ## Weblinks for my learning roadmap: 
 Sept2020 Udemy: https://www.udemy.com/course/python-3-for-total-beginners/learn/lecture/8389012#notes
