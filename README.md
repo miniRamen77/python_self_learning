@@ -1,6 +1,6 @@
 #### python_self_learning - my collection of lectures and exercises
 
-# Weblinks for specific topics:
+## Weblinks for specific topics:
 a. Python 3 format and output: https://www.python-course.eu/python3_formatted_output.php
 b. On various practical topics :  https://www.tutorialspoint.com/python3/python_numbers.htm
 
